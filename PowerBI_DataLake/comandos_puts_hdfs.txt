@@ -1,0 +1,13 @@
+hdfs dfs -put Categoria.csv /user/main/bd/ventas/categoria
+hdfs dfs -put Clientes.csv /user/main/bd/ventas/cliente
+hdfs dfs -put Familia.csv /user/main/bd/ventas/familia
+hdfs dfs -put FormaPago.csv /user/main/bd/ventas/forma_pago
+hdfs dfs -put Producto.csv /user/main/bd/ventas/producto
+hdfs dfs -put PuntoVenta.csv /user/main/bd/ventas/punto_venta
+hdfs dfs -put SubCategoria.csv /user/main/bd/ventas/sub_categoria
+hdfs dfs -put Tiempo.csv /user/main/bd/ventas/tiempo
+hdfs dfs -put Tienda.csv /user/main/bd/ventas/tienda
+hdfs dfs -put UbigeoTienda.csv /user/main/bd/ventas/ubigeo_tienda
+hdfs dfs -put VentasFact.csv /user/main/bd/ventas/ventas_fact
+
+

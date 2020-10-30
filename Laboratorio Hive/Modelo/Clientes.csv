@@ -1,0 +1,51 @@
+Id_Cliente;DNI;Nombre;Edad;Género;Teléfono;Email;Domicilio;Fidelizado
+1;78506592;Jorge Castro;25;Masculino;975124521;clm@hotmail.com;La Molina;Si
+2;75084328;Miguel Solaru;27;Masculino;952148265;cvfg@hotmail.com;San Borja;No
+3;68259127;Carlos Manrique;30;Masculino;932514785;carlosm45@gmail.com;Surco;Si
+4;35129851;Juan Zapata;45;Masculino;921532154;juan123@gmail.com;Surco;Si
+5;20154852;Carla Armas;62;Femenino;921536854;Care34@hotmail.com;Surco;No
+6;25468156;José Navarro;50;Masculino;932156482;jnador45@hotmail.com;La Molina;No
+7;21584265;Cynthia Vergara;62;Femenino;932154673;cynrhia_er45@hotmail.com;La Molina;Si
+8;32015482;Evangelina Torres;51;Femenino;932562017;edolet@gmail.com;Surquillo;Si
+9;20152147;Victorino García;30;Masculino;951247862;vsotr56gt@hotmail.com;La Molina;No
+10;21532689;Marcelo Matos;25;Masculino;951324788;misd@hotmail.com;Surco;No
+11;22913231;Evangelina Tavera Anaya;45;Masculino;951401714;etvera@gmail.com.pe;San Borja;Si
+12;24293773;Jorge Persson;62;Masculino;951478640;cese@hotmail.com;Surco;Si
+13;25674315;Marcelo Alta Mori;50;Femenino;951555566;Marcelo.alta2021@gmail.com;Surco;No
+14;27054857;Juan CarlosHuyhua Chamana;45;Masculino;951632492;juanhuyhua@gmail.com;Surco;No
+15;28435399;EdwardMolleda Rivera;62;Femenino;951709418;emolleda@gmail.com.pe;La Molina;Si
+16;29815941;MiguelEstela Salazar;50;Masculino;951786344;msalazar@gmail.com.pe;La Molina;Si
+17;31196483;Cynthia Agreda Rona;45;Masculino;951863270;"cagreda@gmail.com.pe agreda.cynthia@hotmail.com";Surquillo;No
+18;32577025;Santiago Armas Mendoza;62;Femenino;951940196;"sarmas@gmail.com.pe sarmasm@gmail.com";San Borja;No
+19;33957567;Luz Marin Chavez;50;Masculino;952017122;"lmarin@gmail.com.pe luz.marinch@gmail.com";Surco;Si
+20;35338109;CristianMedina Riveros;45;Femenino;952094048;"cmedina@gmail.com.pe cmedinariveros@gmail.com";Surco;Si
+21;36718651;ElisaMedina Juàrez;62;Masculino;952170974;"emedina@gmail.com.pe elisadelcarmen4@gmail.com";Surco;No
+22;38099193;Jaime Matos Gutierrez;50;Masculino;952247900;"jmatos@gmail.com.pe ingjaimematos@hotmail.com";La Molina;No
+23;39479735;Oscar Cardenas Salinas;45;Femenino;952324826;ocardenas@gmail.com.pe;La Molina;Si
+24;40860277;JosèVillanueva Lovera;62;Masculino;952401752;josevillanuevallovera@gmail.com;Surquillo;Si
+25;42240819;JosèMorales Cordova;50;Femenino;952478678;"jmorales@gmail.com.pe joseamoralesc001@gmail.com";San Borja;No
+26;43621361;EverthSosa La Madrid;45;Masculino;952555604;esosa@gmail.com.pe;Surco;No
+27;45001903;Maria RosarioBejar Alegre;62;Masculino;952632530;mbejar@gmail.com.pe;San Borja;Si
+28;46382445;Alejandro Carranza Ruiz;50;Femenino;952709456;acarranza@gmail.com.pe;Surco;Si
+29;47762987;GersonDa Cruz Càrdenas;35;Masculino;952786382;"gdacruz@gmail.com.pe gerdacruzam@gmail.com";Surco;No
+30;49143529;AndreaTorres Echevarria;30;Femenino;952863308;atorres@gmail.com.pe;Surco;No
+31;50524071;FiorellaSandoval Cesar;20;Masculino;952940234;"fsandoval@gmail.com.pe fiorella465@gmail.com";San Borja;Si
+32;51904613;Lourdes Coronel Chamorro;25;Masculino;953017160;"lcoronel@gmail.com.pe lmcoronel218@hotmail.com";Surco;Si
+33;53285155;Juan Josè Navarro Chuez;20;Femenino;953094086;jnavarro@gmail.com.pe;San Borja;No
+34;54665697;LeslySolis Mendoza;25;Masculino;953171012;lsolis@gmail.com.pe;Surco;No
+35;56046239;Alfredo Flores Borja;26;Femenino;953247938;"aflores@gmail.com.pe freddflowers@gmail.com";Surco;Si
+36;57426781;Katya Lozano Cabada;36;Masculino;953324864;"klozano@gmail.com.pe kdplcabada@gmail.com";Surco;Si
+37;58807323;Jorge Manrique;35;Masculino;953401790;mnar@hotmail.com;San Borja;No
+38;60187865;Jorge Villar;32;Femenino;953478716;jcvilall@hotmail.com;Surco;No
+39;61568407;Edmundo Denegri;20;Masculino;953555642;edemenridsd@hotmail.com;San Borja;Si
+40;62948949;Carlos Sotomayor;24;Femenino;953632568;cadfor@gmail.com;Surco;Si
+41;64329491;Alan Alva;25;Masculino;953709494;alva@hotmail.com;Surco;No
+42;65710033;Alfredo Alva;21;Masculino;953786420;caddalva@gmail;Surco;No
+43;67090575;Cristian Espinoza;21;Femenino;953863346;cespinoza@hotmail.com;San Borja;Si
+44;68471117;Ivan Arevalo;20;Masculino;953940272;iarevalo@hotmail.com;Surco;Si
+45;69851659;Pedro Grijalba;50;Femenino;954017198;pedrog@carrospe.com;San Borja;No
+46;71232201;Victor Sotomayor;60;Masculino;954094124;vsotmay@fre.com.pe;Surco;No
+47;72612743;Ada Alegre;20;Masculino;954171050;adaalegre@fre.com.pe;Surco;Si
+48;73993285;Milagros Huamnán;54;Femenino;954247976;mfmdy@fre.com.pe;Surco;Si
+49;75373827;Eleonor Silva;58;Masculino;954324902;eleonay@fre.com.pe;San Borja;No
+50;76754369;Jan Walder;15;Femenino;954401828;janvay@fre.com.pe;Surco;No

@@ -1,0 +1,34 @@
+Id_Punto_Venta;Id_Caja;id_Cajero;Nombre;Cargo
+11;1;1;Christian Ramos;Cajero
+22;2;2;Miguel Aguero;Cajero
+33;3;3;Fernando Ramirez;Supervisor
+44;4;4;Sara Espinoza;Cajero
+55;5;5;Sonia Delgado;Supervisor
+66;6;6;Juan Perez;Cajero
+77;7;7;Alex Gomez;Cajero
+88;8;8;Maria Gonzales;Cajero
+99;9;9;Antonio Vasquez;Cajero
+1010;10;10;Isabel Trujillo;Cajero
+111;1;11;Rosa Melquiades;Cajero
+212;2;12;Armando Luna;Cajero
+313;3;13;Luis Ramirez;Supervisor
+414;4;14;Jose Delgado;Cajero
+515;5;15;Miguel Caceres;Supervisor
+616;6;16;Eduardo Anaya;Cajero
+717;7;17;Paolo Vasquez;Cajero
+818;8;18;Graciela Heredia;Cajero
+919;9;19;Victoria Castillo;Cajero
+1020;10;20;Lilian Almeida;Cajero
+121;1;21;Maria Espinoza;Supervisor
+222;2;22;Daniel Paredes;Cajero
+323;3;23;Richard Cisneros;Cajero
+424;4;24;Paolo Hurtado;Cajero
+525;5;25;Fernando Espinoza;Cajero
+626;6;26;Juan Carlos Beltran;Cajero
+727;7;27;Daniel Pacheco;Supervisor
+828;8;28;Jorge Cabrera;Cajero
+929;9;29;Ines Melquiades;Cajero
+1030;10;30;Liliana Gonzales;Supervisor
+131;1;31;Franklin Paredes;Cajero
+232;2;32;Humberto Padilla;Cajero
+333;3;33;Jesus Torres;Cajero
